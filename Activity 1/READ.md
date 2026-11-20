@@ -1,4 +1,3 @@
----
 
 <div align="center">
 
@@ -6,29 +5,41 @@
 
 <br/>
 
+<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Activity-01-6366f1?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Design_Principles-a855f7?style=for-the-badge&logo=layout&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Completed_✨-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
+---
+
 </div>
 
 <br/>
 
-## 📌 Activity Description
+## 📌 Introduction
 
-For **Activity 1: Presentation Design Principles**, I created a promotional digital poster featuring a **"Free Coffee"** giveaway organized by the **Ateneo de Davao University School of Nursing**. The activity focused on applying fundamental presentation and visual design principles to create an output that is visually appealing, organized, and effective in communicating information.
+For **Activity 1: Presentation Design Principles**, I created the following promotional digital poster as my output for the activity. The poster features a **"Free Coffee"** giveaway organized by the **Ateneo de Davao University School of Nursing**.
 
-In creating the poster, I applied visual hierarchy, contrast, focal point, movement, balance, proximity, and consistency. These principles guided how I arranged the text, colors, and visual elements to make the promotional message clear and engaging.
+This output was created to practice and demonstrate my understanding of fundamental presentation and visual design principles. I aimed to create a poster that would immediately capture the audience's attention while presenting the important event information in a clear, organized, and visually appealing way.
+
+In developing my output, I applied several design principles, including **visual hierarchy, contrast, focal point, movement, proximity, alignment, and balance**. These principles helped me organize the different elements of the poster and guide the viewer's attention toward the most important information.
+
+Through this activity, I learned that effective presentation design is not only about creating an attractive visual output. It is also about making intentional design choices that improve communication, readability, audience engagement, and the overall visual experience.
+
+<br/>
 
 ### 🖼️ My Activity 1 Output
 
 <p align="center">
-  <img width="100%" alt="Activity 1 - Presentation Design Principles" src="https://github.com/user-attachments/assets/cff88fe0-b2ac-4838-96ed-523b02b3afde" />
+  <img width="100%" alt="ACTIVITY 1 - GE 4120_DAVID (1)" src="https://github.com/user-attachments/assets/cff88fe0-b2ac-4838-96ed-523b02b3afde" />
+  <br/><br/>
 </p>
 
 ## 📐 Design Principles Applied
+
+For my Activity 1 output, I applied several presentation and visual design principles to make the poster clear, attractive, and effective in communicating the event information.
 
 ### 1. Visual Hierarchy
 
@@ -40,7 +51,7 @@ This creates a clear order for the viewer to follow:
 
 **Main Message → Supporting Information → Event Details**
 
-This allows viewers to understand the main purpose of the poster quickly without having to search through the design for important information.
+This improved the presentation by allowing viewers to understand the main purpose of the poster quickly without having to search through the design for important information.
 
 ---
 
@@ -60,7 +71,7 @@ The main focal point of the poster is the **"FREE COFFEE"** text in the center.
 
 I positioned the main message in the middle of the composition and surrounded it with coffee beans and coffee splashes. This makes the main message one of the first things the viewer notices.
 
-Having a strong focal point immediately communicates what the promotional poster is about.
+Having a strong focal point improves the presentation because it immediately communicates what the promotional poster is about.
 
 ---
 
@@ -70,7 +81,7 @@ I used the curved coffee splashes and floating coffee beans to create a sense of
 
 The coffee elements direct the viewer's attention around the central message rather than making the composition feel static.
 
-This makes the poster more dynamic and visually engaging while supporting the coffee theme.
+This makes the poster more dynamic and visually engaging while also supporting the coffee theme.
 
 ---
 
@@ -114,14 +125,23 @@ The use of **movement** through the coffee splashes and beans made the design mo
 
 Finally, **consistency** connected the colors, graphics, and typography to the coffee theme, giving the poster a more unified appearance.
 
-Overall, these principles helped me create a promotional poster that is not only visually appealing but also functional. The design guides the viewer's attention, communicates important information clearly, and creates an engaging visual experience.
+Overall, these principles helped me create a promotional poster that is not only visually appealing but also functional. The design guides the viewer's attention, communicates the important information clearly, and creates an engaging visual experience.
 
 ---
 
-## 📝 What Have I Learned?
+## 📝 Activity Reflection
 
-Through this activity, I learned that creating an effective presentation or poster requires more than simply combining text, colors, and images. I realized the importance of applying design principles such as visual hierarchy, contrast, balance, and consistency to communicate information clearly and capture the audience's attention.
+### 📌 Activity Title and Description
 
-One challenge I encountered was arranging the different elements without making the poster look too crowded or distracting. I addressed this by organizing related information, emphasizing the main message, and distributing the visual elements more carefully.
+**Activity 1: Presentation Design Principles**
 
-This activity also helped me improve my creativity and attention to detail, especially when choosing colors, typography, and graphic elements that complement one another. In the future, I can apply these skills when creating academic presentations, nursing health education materials, and other visual information materials. I also hope to improve further by exploring different layouts and learning how to make my designs more accessible, readable, and engaging.
+This activity focused on understanding and applying fundamental presentation and visual design principles in creating an effective promotional digital poster. Through this activity, I was able to practice using visual hierarchy, contrast, focal point, movement, balance, proximity, and consistency to create a design that communicates its message clearly while maintaining an attractive and organized appearance.
+
+### 💡 What Have I Learned?
+
+Through this activity, I learned that creating an effective presentation requires more than just choosing attractive colors, fonts, and images. I gained a better understanding of how design principles help organize information, emphasize important details, and capture the audience's attention.
+
+One challenge I encountered was arranging the different visual elements without making the poster look overcrowded. I addressed this by adjusting the placement, size, and spacing of the elements to achieve a more balanced composition.
+
+In the future, I can apply these principles when creating presentations, promotional materials, and other digital designs. I also want to improve my skills by experimenting with different layouts, typography, and color combinations while making sure that the overall design remains clear, readable, and visually appealing.
+
