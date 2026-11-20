@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER COVER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=☕%20PRELIM%20EXAM%20COMPILATION%20🚀&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=21st%20Century%20IT%20Skills%20%E2%80%A2%20BS%20Nursing&descAlignY=65&descScale=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=☕%2021st%20Century%20IT%20Skills%20Output%20🚀&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Prelim%20Coursework%20%E2%80%A2%20BS%20Nursing&descAlignY=65&descScale=18" width="100%" />
 
 <br/>
 
