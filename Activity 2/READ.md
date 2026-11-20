@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🖌️ ACTIVITY 2: COLOR PALETTE & TYPOGRAPHY
@@ -144,3 +145,23 @@ This creates a clear visual hierarchy:
 ```text
   MARCELLUS   ──►  Main Titles and Headings
   Montserrat  ──►  Body Text and Supporting Information
+```
+
+---
+
+## 📝 Activity Reflection
+
+### 📌 Activity Title and Description
+
+**Activity 2: Color Palette & Typography**
+
+This activity focused on understanding the importance of color selection and typography in developing a consistent and effective visual identity. I created a color palette consisting of Pure Black, Deep Greige, White, and Soft White, together with two typefaces, Marcellus and Montserrat. The goal was to explore how different colors and font styles can complement one another to establish a specific visual appearance, improve readability, and create a clear visual hierarchy.
+
+### 💡 What Have I Learned?
+
+Through this activity, I learned how color combinations and typography contribute to the overall identity and appearance of a design. I gained a better understanding of color harmony, contrast, color distribution, font pairing, and the importance of choosing typefaces that complement each other.
+
+One challenge I encountered was finding the right balance between the serif and sans-serif fonts while ensuring that the colors would work well together. I addressed this by selecting Marcellus for headings and Montserrat for supporting text, while using neutral colors to maintain a consistent and professional appearance.
+
+In the future, I can apply these concepts when creating presentations, websites, and other digital materials. I also want to improve my skills by exploring more color combinations and typography pairings while considering readability, accessibility, and the overall purpose of the design.
+
