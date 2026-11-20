@@ -115,16 +115,7 @@
 <!-- ============ FINAL OUTPUT ============ -->
 <a name="final-output"></a>
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2500&pause=2500&color=FFFFFF&background=0B1F3A&vCenter=true&width=800&height=70&lines=FINAL+OUTPUT" />
-
-<p align="center">
-  <img src="./images/final-resume.png" alt="Final one-page resume of Bea Marie C. David" width="75%" />
-</p>
-
-<p align="center">
-  <a href="./Final_Resume.pdf"><img src="https://img.shields.io/badge/📎_VIEW_FINAL_RESUME_(PDF)-1E3A8A?style=for-the-badge&labelColor=0B1F3A"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E3A8A,100:0B1F3A&height=40&section=footer" width="100%" />
+<img width="2382" height="3369" alt="Bea_Marie_David_Resume" src="https://github.com/user-attachments/assets/38b2266c-206d-4583-8674-149f3f490c89" />
 
 <!-- ============ REFLECTION ============ -->
 <a name="reflection"></a>
