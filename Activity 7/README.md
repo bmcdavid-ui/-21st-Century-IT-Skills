@@ -21,6 +21,7 @@
 <a href="#comparison"><img src="https://img.shields.io/badge/COMPARISON-1E3A8A?style=for-the-badge&labelColor=0B1F3A"/></a>
 <a href="#final-output"><img src="https://img.shields.io/badge/FINAL_OUTPUT-1E3A8A?style=for-the-badge&labelColor=0B1F3A"/></a>
 <a href="#reflection"><img src="https://img.shields.io/badge/REFLECTION-64748B?style=for-the-badge&labelColor=0B1F3A"/></a>
+<a href="#summary"><img src="https://img.shields.io/badge/ACTIVITY_SUMMARY-1E3A8A?style=for-the-badge&labelColor=0B1F3A"/></a>
 
 </div>
 
@@ -141,6 +142,21 @@
 
 **👀 Reading like an employer.** Comparing the two outputs pushed me to ask whether the key information was easy to find, whether the length was right, and whether the tone was confident without exaggerating. I now see AI as a collaborator, not a replacement for my own review.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E3A8A,100:0B1F3A&height=40&section=footer" width="100%" />
+
+<!-- ============ ACTIVITY SUMMARY & KEY TAKEAWAYS ============ -->
+<a name="summary"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2500&pause=2500&color=FFFFFF&background=0B1F3A&vCenter=true&width=800&height=70&lines=ACTIVITY+SUMMARY" />
+
+### 📌 Laboratory 10: Comparing Multiple LLMs for Resume Creation
+This activity focused on using two different Large Language Models (**Claude** and **ChatGPT**) with the exact same prompt and personal background to generate a one-page nursing student resume. By comparing their outputs side-by-side, I evaluated each model's strengths and weaknesses in accuracy, structure, and visual design before combining the best elements into a verified final resume.
+
+### 🎓 What Have I Learned?
+
+* **Key Concepts & Skills Gained:** I learned how to write structured, constraint-driven prompts and critically evaluate how different AI models interpret the same data—recognizing that **Claude** excels at factual faithfulness while **ChatGPT** prioritizes strategic grouping and visual polish. I also gained practical skills in auditing AI-generated text for healthcare compliance and presenting technical comparisons using clean Markdown and HTML formatting.
+* **Challenge Faced & How I Solved It:** A major challenge was dealing with AI hallucinations and omissions—ChatGPT invented unverified credentials (such as "Philippine Red Cross" and "fourth-year" status), used phrasing that blurred the line between a student nurse and a licensed professional, and overflowed the one-page limit. I solved this by cross-checking every line against my original data, adopting ChatGPT's thematic skill grouping for readability, and blending it with Claude's strict factual accuracy and concise single-page layout.
+* **Future Application & Improvement:** Moving forward, I will protect my privacy and my references' personal information by using dummy placeholders in AI prompts and only inserting real contact details offline in the final document. I can also apply this multi-LLM comparison workflow to future clinical cover letters, graduate applications, and professional portfolios to ensure both strong presentation and zero fabrication.
+
 <br/>
 
 <div align="center">
@@ -150,7 +166,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0B1F3A,100:0B1F3A&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
-
-
-
-
